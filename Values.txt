@@ -1,4 +1,8 @@
 Max Cover Height: 64 units
+Half Cover Height: 32 units
+Easy Jump: 32 units
+Hard Jumps: 45 units
+Rocket Jump: 128 units
 Min Hallway width: 48 units
 Min Stair Height: 16 units
 "Window" Height: 48 units (from floor)
