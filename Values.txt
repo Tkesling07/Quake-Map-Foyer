@@ -1,0 +1,4 @@
+Max Cover Height: 64 units
+Min Hallway width: 48 units
+Min Stair Height: 16 units
+"Window" Height: 48 units (from floor)

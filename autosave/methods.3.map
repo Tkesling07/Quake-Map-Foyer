@@ -458,8 +458,3 @@
 "classname" "weapon_rocketlauncher"
 "origin" "-1648 -192 0"
 }
-// entity 3
-{
-"classname" "item_rockets"
-"origin" "-1712 -256 0"
-}
